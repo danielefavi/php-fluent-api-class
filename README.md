@@ -1,6 +1,6 @@
 # PHP Fluent API Class
 
-The class `FluentApi` is a PHP class that helps you to create a fluent API interface.
+**FluentApi** is a PHP class that helps you to create a fluent API interface.
 
 ### Usage
 
