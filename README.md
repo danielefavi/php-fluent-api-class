@@ -2,7 +2,7 @@
 
 **FluentApi** is a PHP class that helps you to create a fluent API interface.
 
-Please find the full article at (https://www.danielefavi.com/blog/php-fluent-api-class)[https://www.danielefavi.com/blog/php-fluent-api-class]
+Please find the full article at [https://www.danielefavi.com/blog/php-fluent-api-class](https://www.danielefavi.com/blog/php-fluent-api-class)
 
 ### Usage
 
